@@ -4,6 +4,7 @@ import struct
 import time
 import picamera
 
+
 # Connect a client socket to my_server:8000 (change my_server to the
 # hostname of your server)
 client_socket = socket.socket()
